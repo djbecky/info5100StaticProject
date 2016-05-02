@@ -1,0 +1,139 @@
+#color_flag {
+  padding: 20px;
+}
+
+#color_flag p {
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+  display: block;
+  text-align: center;
+}
+
+.mulflag {
+  opacity: 1;
+}
+
+.innerflag {
+  stroke: black;
+  stroke-width: 2px;
+  fill: white;
+  opacity: 0.4;
+}
+
+body {
+  font-family: "Open Sans";
+  font-size: "10";
+  background-color: #000032;
+}
+
+div {
+  margin: 30px;
+}
+
+.arc text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+  color: #ffffff;
+}
+
+.arc path {
+  stroke: #fff;
+}
+
+.line12 {
+  stroke: #fff;
+  stroke-width: 3px;
+}
+
+rect.bordered {
+  stroke: #E6E6E6;
+  stroke-width: 2px;
+}
+
+text.mono {
+  font-size: 9pt;
+  font-family: Consolas, courier;
+  fill: #aaa;
+}
+
+text.axis-workweek {
+  fill: #000;
+}
+
+text.axis-worktime {
+  fill: #000;
+}
+
+.textClass {
+  color: white;
+  align:center;
+}
+
+.svgstrip {
+  padding-left:7%;
+  padding-top: 30px;
+  display: block;
+  align: center;
+}
+
+.svgdonut{
+  padding-left:4%;
+  display: block;
+  align: center;
+}
+
+.title {
+  padding-top: 20px;
+  font-size: 35px;
+  fill: white;
+  font-weight: 800;
+  text-align: justify;
+}
+
+.inlinetext{
+  padding-left: 7%;
+  color:#bdbdbd;
+  width:80%;
+  text-align: center;
+  font-weight: 500;
+
+}
+.emphasistext{
+  font-weight: 800;
+  font-size:20px;
+}
+.note{
+  padding-left: 3%;
+  fill:#bdbdbd;
+  width:100%;
+  text-align: center;
+  font-weight: 200;
+  font-size:11px;
+}
+
+.lasttext{
+  padding-left: 7%;
+  color:#ffffff;
+  width:80%;
+  text-align: center;
+  font-weight: 900;
+  font-size:40px;
+}
+
+.bigtitle{
+  padding-left: 7%;
+  color:#ffffff;
+  width:80%;
+  text-align: center;
+  font-weight: 900;
+  font-size:60px;
+}
+.pt10{
+  margin-top:10px;
+}
+.subtitle{
+  font-size:20px;
+  text-align:center;
+  color:#ffffff;
+}

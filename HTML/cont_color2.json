@@ -1,0 +1,24 @@
+var contColor = [{
+	"color": ["green", "red", "green", "red", "red", "red", "red", "white", "white", "red", "green", "red", "red", "red", "red", "red", "red", "red", "green", "green", "white", "white", "red", "red", "red", "red", "red", "green", "red", "red"],
+	"name": "Asia"
+
+}, {
+	"color": ["white", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "green", "blue", "blue", "white", "blue",  "blue", "green", "green", "blue", "white", "blue", "green", "blue", "green", "blue", "white", "white"],
+	"name": "N.America"
+
+}, {
+	"color": ["blue", "blue", "red",  "red",  "blue", "white",  "red", "red", "red", "red", "red", "white", "red"],
+	"name": "S.America"
+
+}, {
+	"color": ["red", "gold", "red", "gold", "red", "white", "white", "red", "white", "white", "white", "gold", "white", "red", "white", "white", "red", "red", "red", "red", "red", "red", "red", "red", "white", "red", "red", "red", "gold", "red"],
+	"name": "Europe"
+}, {
+	"color": ["green", "red", "green",  "red", "red", "gold", "gold", "gold", "gold", "green", "red", "green", "green", "green", "red", "red", "gold", "gold", "red", "red", "green", "red", "red", "gold", "green", "red", "red", "gold", "green", "red", "green", "green", "red", "green", "red",  "green", "green", "red", "gold", "green", "green", "green"],
+	"name": "Africa"
+
+}, {
+	"color": ["blue", "blue", "blue", "blue", "red", "blue", "red", "red", "blue", "blue", "blue", "blue", "blue", "green", "red", "blue", "red", "red"],
+	"name": "Oceania"
+
+}]

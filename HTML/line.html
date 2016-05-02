@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+body {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+.outline{
+  fill:red;
+  stroke:red;
+  stroke-width:1.5px;
+}
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="//d3js.org/d3.v3.min.js"></script>
+<svg width="900" height="450">
+  <path d=" M491,405.375
+    L532,215.75
+    L573,63.125
+    L614,206.5
+    L655,340.625
+    L696,368.375
+    L737,377.625
+    L778,405.375
+                "
+                stroke="red" stroke-width="2" fill="none" />
+
+ <path d=" M409,137.125L368,178.75L327,326.75L286,363.75L245,377.625L204,400.75L163.00000000000003,400.75L121.99999999999999,405.375L81,410L40,201.875"
+                stroke="red" stroke-width="2" fill="none" />
+
+
+
+               
+
+<script>
+//var margin = {top: 20, right: 20, bottom: 30, left: 50},
+   // width = 960 - margin.left - margin.right,
+   // height = 500 - margin.top - margin.bottom;
+
+  var svg = d3.select("svg");
+  var height = svg.attr("height");
+  var width = svg.attr("width");
+
+//var formatDate = d3.time.format("%d-%b-%y");
+
+  var xScale = d3.scale.linear().domain([0,10]).range([width/2, width-40]);
+  var xScale2 = d3.scale.linear().domain([0,10]).range([width/2, 40]);
+  var yScale = d3.scale.linear().domain([80,0]).range([40, height-40]);
+
+  var xAxis = d3.svg.axis().scale(xScale).orient("bottom");
+  var xAxis2 = d3.svg.axis().scale(xScale2).orient("bottom");
+  var yAxis = d3.svg.axis().scale(yScale).orient("left");
+
+  svg.append("g").attr("class", "axis").call(yAxis).attr("transform","translate(450, 10)");
+  svg.append("g").attr("class", "axis").call(xAxis).attr("transform","translate(0, 420)");
+  svg.append("g").attr("class", "axis").call(xAxis2).attr("transform","translate(0, 420)");
+ 
+
+
+  svg.append("circle").attr("cx",xScale(2))
+  .attr("cy",yScale(8))
+  .attr("r",4)
+ // inport data in to html
+  var colorset = [];
+ // var numberset = [];
+  d3.json("num_color_ctry.json", function(error, data) {
+  
+      if (error) {console.log(error);}
+
+      data.forEach(function(d){
+        colorset.push(d);
+      });
+  });
+
+  var shapeset = [];
+  //var numberset2 = [];
+  d3.json("num_ctry_shape.json", function(error, data) {
+  
+      if (error) {console.log(error);}
+
+      data.forEach(function(d){
+        shapeset.push(d);
+        //numberset2.push(d.n_ctry);
+      });
+  });
+
+  var linecolor = d3.svg.line()
+    .x(function(d) { return xScale(d.n_color); })
+    .y(function(d) { return yScale(d.n_ctry); });
+
+    var lineshape = d3.svg.line()
+    .x(function(d){return xScale2(d.n_shapes);})
+    .y(function(d){return yScale(d.n_ctry);});
+//call a function which return a fucntion, like the axis
+
+
+
+svg.append("path").attr("d",linecolor(colorset)).attr("class","outline").attr("stroke","white");
+svg.append("path").attr("d",lineshape(shapeset)).attr("class","outline").attr("stroke","red");
+
+
+/*
+var x = d3.time.scale()
+    .range([0, width]);
+
+var y = d3.scale.linear()
+    .range([height, 0]);
+
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+
+var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("left");
+
+var line = d3.svg.line()
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return y(d.close); });
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+d3.tsv("data.tsv", type, function(error, data) {
+  if (error) throw error;
+
+  x.domain(d3.extent(data, function(d) { return d.date; }));
+  y.domain(d3.extent(data, function(d) { return d.close; }));
+
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis);
+
+  svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxis)
+    .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 6)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .text("Price ($)");
+
+  svg.append("path")
+      .datum(data)
+      .attr("class", "line")
+      .attr("d", line);
+});
+
+function type(d) {
+  d.date = formatDate.parse(d.date);
+  d.close = +d.close;
+  return d;
+}
+*/
+</script>

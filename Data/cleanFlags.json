@@ -1,0 +1,2412 @@
+[{
+	"allShapes": [
+		["sunstars", 1],
+		["icon", 1]
+	],
+	"continent": "Asia",
+	"longlat": ["66.39159363", "33.98299275"],
+	"n_colors": "5",
+	"name": "Afghanistan",
+	"mainhue": "green",
+	"religion": "Muslim",
+	"allColors": ["red", "green", "gold", "green", "black", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["sunstars", 1],
+		["animate", 1]
+	],
+	"continent": "Europe",
+	"longlat": ["19.87170014", "41.00017358"],
+	"n_colors": "3",
+	"name": "Albania",
+	"mainhue": "red",
+	"religion": "Marxist",
+	"allColors": ["red", "gold", "black"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["sunstars", 1],
+		["crescent", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["3.19771194", "27.89861690"],
+	"n_colors": "3",
+	"name": "Algeria",
+	"mainhue": "green",
+	"religion": "Muslim",
+	"allColors": ["red", "green", "green", "white"],
+	"language": "Arabic"
+}, {
+	"allShapes": [
+		["triangle", 1],
+		["icon", 1],
+		["animate", 1]
+	],
+	"continent": "Oceania",
+	"longlat": [],
+	"n_colors": "5",
+	"name": "American-Samoa",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["red", "gold", "blue", "white", "orange"],
+	"language": "English"
+}, {
+	"allShapes": [],
+	"continent": "Europe",
+	"longlat": ["1.55201340", "42.54057088"],
+	"n_colors": "3",
+	"name": "Andorra",
+	"mainhue": "gold",
+	"religion": "Catholic",
+	"allColors": ["red", "gold", "blue"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["sunstars", 1],
+		["icon", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["16.70933622", "-12.16469683"],
+	"n_colors": "3",
+	"name": "Angola",
+	"mainhue": "red",
+	"religion": "Ethnic",
+	"allColors": ["red", "gold", "black"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["animate", 1]
+	],
+	"continent": "N.America",
+	"longlat": ["-63.06861300", "18.22053521"],
+	"n_colors": "3",
+	"name": "Anguilla",
+	"mainhue": "white",
+	"religion": "Other Christian",
+	"allColors": ["blue", "white", "orange"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["sunstars", 1],
+		["triangle", 1]
+	],
+	"continent": "N.America",
+	"longlat": [],
+	"n_colors": "5",
+	"name": "Antigua-Barbuda",
+	"mainhue": "red",
+	"religion": "Other Christian",
+	"allColors": ["red", "gold", "blue", "black", "white"],
+	"language": "English"
+}, {
+	"allShapes": [],
+	"continent": "S.America",
+	"longlat": ["-64.97897469", "-38.01529308"],
+	"n_colors": "2",
+	"name": "Argentina",
+	"mainhue": "blue",
+	"religion": "Catholic",
+	"allColors": ["blue", "white"],
+	"language": "Spanish"
+}, {
+	"allShapes": [
+		["sunstars", 1]
+	],
+	"continent": "S.America",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "Argentine",
+	"mainhue": "blue",
+	"religion": "Catholic",
+	"allColors": ["gold", "blue", "white"],
+	"language": "Spanish"
+}, {
+	"allShapes": [
+		["crosses", 1],
+		["saltires", 1],
+		["quarters", 1],
+		["sunstars", 6]
+	],
+	"continent": "Oceania",
+	"longlat": ["133.55540944", "-26.29594646"],
+	"n_colors": "3",
+	"name": "Australia",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["red", "blue", "white"],
+	"language": "English"
+}, {
+	"allShapes": [],
+	"continent": "Europe",
+	"longlat": ["13.18776731", "47.63125476"],
+	"n_colors": "2",
+	"name": "Austria",
+	"mainhue": "red",
+	"religion": "Catholic",
+	"allColors": ["red", "white"],
+	"language": "German"
+}, {
+	"allShapes": [
+		["triangle", 1]
+	],
+	"continent": "N.America",
+	"longlat": ["-77.68192453", "24.45991732"],
+	"n_colors": "3",
+	"name": "Bahamas",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["gold", "blue", "black"],
+	"language": "English"
+}, {
+	"allShapes": [],
+	"continent": "Asia",
+	"longlat": ["50.65932354", "25.90740996"],
+	"n_colors": "2",
+	"name": "Bahrain",
+	"mainhue": "red",
+	"religion": "Muslim",
+	"allColors": ["red", "white"],
+	"language": "Arabic"
+}, {
+	"allShapes": [
+		["circles", 1]
+	],
+	"continent": "Asia",
+	"longlat": ["90.49915527", "24.08273251"],
+	"n_colors": "2",
+	"name": "Bangladesh",
+	"mainhue": "green",
+	"religion": "Muslim",
+	"allColors": ["red", "green", "green"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["icon", 1]
+	],
+	"continent": "N.America",
+	"longlat": ["-59.54319600", "13.19383077"],
+	"n_colors": "3",
+	"name": "Barbados",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["gold", "blue", "black"],
+	"language": "English"
+}, {
+	"allShapes": [],
+	"continent": "Europe",
+	"longlat": ["4.46993600", "50.49593874"],
+	"n_colors": "3",
+	"name": "Belgium",
+	"mainhue": "gold",
+	"religion": "Catholic",
+	"allColors": ["red", "gold", "black"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["icon", 1],
+		["animate", 1],
+		["text", 1]
+	],
+	"continent": "N.America",
+	"longlat": ["-88.01424956", "17.21153631"],
+	"n_colors": "8",
+	"name": "Belize",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "gold", "blue", "green", "black", "white", "orange"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["sunstars", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["2.29386134", "9.37180859"],
+	"n_colors": "2",
+	"name": "Benin",
+	"mainhue": "green",
+	"religion": "Ethnic",
+	"allColors": ["red", "green", "green"],
+	"language": "French"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["crosses", 1],
+		["saltires", 1],
+		["quarters", 1],
+		["icon", 1],
+		["animate", 1]
+	],
+	"continent": "N.America",
+	"longlat": ["-64.76182765", "32.31995785"],
+	"n_colors": "6",
+	"name": "Bermuda",
+	"mainhue": "red",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "gold", "blue", "green", "black", "white"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["circles", 4],
+		["animate", 1]
+	],
+	"continent": "Asia",
+	"longlat": ["90.43360300", "27.50752756"],
+	"n_colors": "4",
+	"name": "Bhutan",
+	"mainhue": "orange",
+	"religion": "Buddhist",
+	"allColors": ["red", "black", "white", "orange"],
+	"language": "Others"
+}, {
+	"allShapes": [],
+	"continent": "S.America",
+	"longlat": ["-65.19265691", "-16.74518128"],
+	"n_colors": "3",
+	"name": "Bolivia",
+	"mainhue": "red",
+	"religion": "Catholic",
+	"allColors": ["red", "green", "gold", "green"],
+	"language": "Spanish"
+}, {
+	"allShapes": [],
+	"continent": "Africa",
+	"longlat": ["24.22344422", "-22.18279485"],
+	"n_colors": "3",
+	"name": "Botswana",
+	"mainhue": "blue",
+	"religion": "Ethnic",
+	"allColors": ["blue", "black", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["sunstars", 22],
+		["text", 1]
+	],
+	"continent": "S.America",
+	"longlat": ["-53.33152600", "-11.80965046"],
+	"n_colors": "4",
+	"name": "Brazil",
+	"mainhue": "green",
+	"religion": "Catholic",
+	"allColors": ["green", "gold", "blue", "green", "white"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["crosses", 1],
+		["saltires", 1],
+		["quarters", 1],
+		["icon", 1],
+		["animate", 1],
+		["text", 1]
+	],
+	"continent": "N.America",
+	"longlat": [],
+	"n_colors": "6",
+	"name": "British-Virgin-Isles",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "gold", "blue", "green", "white", "orange"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["triangle", 1],
+		["icon", 1],
+		["animate", 1],
+		["text", 1]
+	],
+	"continent": "Asia",
+	"longlat": ["114.60132823", "4.54189364"],
+	"n_colors": "4",
+	"name": "Brunei",
+	"mainhue": "gold",
+	"religion": "Muslim",
+	"allColors": ["red", "gold", "black", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["sunstars", 1],
+		["icon", 1],
+		["animate", 1]
+	],
+	"continent": "Europe",
+	"longlat": ["25.48583200", "42.70160678"],
+	"n_colors": "5",
+	"name": "Bulgaria",
+	"mainhue": "red",
+	"religion": "Marxist",
+	"allColors": ["red", "green", "gold", "blue", "green", "white"],
+	"language": "Slavic"
+}, {
+	"allShapes": [
+		["sunstars", 1]
+	],
+	"continent": "Africa",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "Burkina",
+	"mainhue": "red",
+	"religion": "Ethnic",
+	"allColors": ["red", "green", "gold", "green"],
+	"language": "French"
+}, {
+	"allShapes": [
+		["quarters", 1],
+		["sunstars", 14],
+		["icon", 1],
+		["animate", 1]
+	],
+	"continent": "Asia",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "Burma",
+	"mainhue": "red",
+	"religion": "Buddhist",
+	"allColors": ["red", "blue", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["saltires", 1],
+		["sunstars", 3]
+	],
+	"continent": "Africa",
+	"longlat": ["29.88592902", "-3.40499707"],
+	"n_colors": "3",
+	"name": "Burundi",
+	"mainhue": "red",
+	"religion": "Ethnic",
+	"allColors": ["red", "green", "green", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["sunstars", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["12.72825915", "7.38622543"],
+	"n_colors": "3",
+	"name": "Cameroon",
+	"mainhue": "gold",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "gold", "green"],
+	"language": "French"
+}, {
+	"allShapes": [
+		["animate", 1]
+	],
+	"continent": "N.America",
+	"longlat": ["-106.69833150", "60.36196817"],
+	"n_colors": "2",
+	"name": "Canada",
+	"mainhue": "red",
+	"religion": "Other Christian",
+	"allColors": ["red", "white"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["sunstars", 1],
+		["animate", 1]
+	],
+	"continent": "Africa",
+	"longlat": [],
+	"n_colors": "5",
+	"name": "Cape-Verde-Islands",
+	"mainhue": "gold",
+	"religion": "Catholic",
+	"allColors": ["red", "green", "gold", "green", "black", "orange"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["crosses", 1],
+		["saltires", 1],
+		["quarters", 1],
+		["sunstars", 4],
+		["icon", 1],
+		["animate", 1],
+		["text", 1]
+	],
+	"continent": "N.America",
+	"longlat": [],
+	"n_colors": "6",
+	"name": "Cayman-Islands",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "gold", "blue", "green", "white", "orange"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["sunstars", 1]
+	],
+	"continent": "Africa",
+	"longlat": [],
+	"n_colors": "5",
+	"name": "Central-African-Republic",
+	"mainhue": "gold",
+	"religion": "Ethnic",
+	"allColors": ["red", "green", "gold", "blue", "green", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [],
+	"continent": "Africa",
+	"longlat": ["18.78714064", "14.80342407"],
+	"n_colors": "3",
+	"name": "Chad",
+	"mainhue": "gold",
+	"religion": "Ethnic",
+	"allColors": ["red", "gold", "blue"],
+	"language": "French"
+}, {
+	"allShapes": [
+		["quarters", 1],
+		["sunstars", 1]
+	],
+	"continent": "S.America",
+	"longlat": ["-71.40014474", "-38.01760790"],
+	"n_colors": "3",
+	"name": "Chile",
+	"mainhue": "red",
+	"religion": "Catholic",
+	"allColors": ["red", "blue", "white"],
+	"language": "Spanish"
+}, {
+	"allShapes": [
+		["sunstars", 5]
+	],
+	"continent": "Asia",
+	"longlat": ["103.55819197", "36.71457440"],
+	"n_colors": "2",
+	"name": "China",
+	"mainhue": "red",
+	"religion": "Marxist",
+	"allColors": ["red", "gold"],
+	"language": "Chinese"
+}, {
+	"allShapes": [],
+	"continent": "S.America",
+	"longlat": ["-73.53927436", "3.68182320"],
+	"n_colors": "3",
+	"name": "Colombia",
+	"mainhue": "gold",
+	"religion": "Catholic",
+	"allColors": ["red", "gold", "blue"],
+	"language": "Spanish"
+}, {
+	"allShapes": [
+		["sunstars", 4],
+		["crescent", 1]
+	],
+	"continent": "Africa",
+	"longlat": [],
+	"n_colors": "2",
+	"name": "Comorro-Islands",
+	"mainhue": "green",
+	"religion": "Muslim",
+	"allColors": ["green", "green", "white"],
+	"language": "French"
+}, {
+	"allShapes": [
+		["sunstars", 1],
+		["icon", 1],
+		["animate", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["15.69033190", "-0.68967806"],
+	"n_colors": "3",
+	"name": "Congo",
+	"mainhue": "red",
+	"religion": "Ethnic",
+	"allColors": ["red", "green", "gold", "green"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["crosses", 1],
+		["saltires", 1],
+		["quarters", 1],
+		["sunstars", 15]
+	],
+	"continent": "Oceania",
+	"longlat": [],
+	"n_colors": "4",
+	"name": "Cook-Islands",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["red", "blue", "white"],
+	"language": "English"
+}, {
+	"allShapes": [],
+	"continent": "N.America",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "Costa-Rica",
+	"mainhue": "blue",
+	"religion": "Catholic",
+	"allColors": ["red", "blue", "white"],
+	"language": "Spanish"
+}, {
+	"allShapes": [
+		["sunstars", 1],
+		["triangle", 1]
+	],
+	"continent": "N.America",
+	"longlat": ["-79.00064743", "21.54513189"],
+	"n_colors": "3",
+	"name": "Cuba",
+	"mainhue": "blue",
+	"religion": "Marxist",
+	"allColors": ["red", "blue", "white"],
+	"language": "Spanish"
+}, {
+	"allShapes": [
+		["icon", 1],
+		["animate", 1]
+	],
+	"continent": "Europe",
+	"longlat": ["33.42986100", "35.12450768"],
+	"n_colors": "3",
+	"name": "Cyprus",
+	"mainhue": "white",
+	"religion": "Other Christian",
+	"allColors": ["green", "gold", "green", "white"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["triangle", 1]
+	],
+	"continent": "Europe",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "Czechoslovakia",
+	"mainhue": "white",
+	"religion": "Marxist",
+	"allColors": ["red", "blue", "white"],
+	"language": "Slavic"
+}, {
+	"allShapes": [
+		["crosses", 1]
+	],
+	"continent": "Europe",
+	"longlat": ["9.41938953", "54.71794021"],
+	"n_colors": "2",
+	"name": "Denmark",
+	"mainhue": "red",
+	"religion": "Other Christian",
+	"allColors": ["red", "white"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["sunstars", 1],
+		["triangle", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["42.65344839", "11.75959257"],
+	"n_colors": "4",
+	"name": "Djibouti",
+	"mainhue": "blue",
+	"religion": "Muslim",
+	"allColors": ["red", "green", "blue", "green", "white"],
+	"language": "French"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["sunstars", 10],
+		["animate", 1]
+	],
+	"continent": "N.America",
+	"longlat": ["-61.37097400", "15.41473963"],
+	"n_colors": "6",
+	"name": "Dominica",
+	"mainhue": "green",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "gold", "blue", "green", "black", "white"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["crosses", 1]
+	],
+	"continent": "N.America",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "Dominican-Republic",
+	"mainhue": "blue",
+	"religion": "Catholic",
+	"allColors": ["red", "blue", "white"],
+	"language": "Spanish"
+}, {
+	"allShapes": [],
+	"continent": "S.America",
+	"longlat": ["-78.55693916", "-1.22919037"],
+	"n_colors": "3",
+	"name": "Ecuador",
+	"mainhue": "gold",
+	"religion": "Catholic",
+	"allColors": ["red", "gold", "blue"],
+	"language": "Spanish"
+}, {
+	"allShapes": [
+		["animate", 1],
+		["text", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["30.80250000", "26.71650873"],
+	"n_colors": "4",
+	"name": "Egypt",
+	"mainhue": "black",
+	"religion": "Muslim",
+	"allColors": ["red", "gold", "black", "white"],
+	"language": "Arabic"
+}, {
+	"allShapes": [],
+	"continent": "N.America",
+	"longlat": [],
+	"n_colors": "2",
+	"name": "El-Salvador",
+	"mainhue": "blue",
+	"religion": "Catholic",
+	"allColors": ["blue", "white"],
+	"language": "Spanish"
+}, {
+	"allShapes": [
+		["triangle", 1]
+	],
+	"continent": "Africa",
+	"longlat": [],
+	"n_colors": "4",
+	"name": "Equatorial-Guinea",
+	"mainhue": "green",
+	"religion": "Ethnic",
+	"allColors": ["red", "green", "blue", "green", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [],
+	"continent": "Africa",
+	"longlat": ["39.84148164", "9.10727589"],
+	"n_colors": "3",
+	"name": "Ethiopia",
+	"mainhue": "green",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "gold", "green"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["crosses", 1]
+	],
+	"continent": "Europe",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "Faeroes",
+	"mainhue": "white",
+	"religion": "Other Christian",
+	"allColors": ["red", "blue", "white"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["crosses", 1],
+		["saltires", 1],
+		["quarters", 1],
+		["icon", 1],
+		["animate", 1],
+		["text", 1]
+	],
+	"continent": "S.America",
+	"longlat": [],
+	"n_colors": "6",
+	"name": "Falklands-Malvinas",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "gold", "blue", "green", "white"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["crosses", 2],
+		["saltires", 1],
+		["quarters", 1],
+		["icon", 1],
+		["animate", 1]
+	],
+	"continent": "Oceania",
+	"longlat": ["178.06503600", "-17.71219757"],
+	"n_colors": "7",
+	"name": "Fiji",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "gold", "blue", "green", "white", "orange"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["crosses", 1]
+	],
+	"continent": "Europe",
+	"longlat": ["26.36339137", "64.69610892"],
+	"n_colors": "2",
+	"name": "Finland",
+	"mainhue": "white",
+	"religion": "Other Christian",
+	"allColors": ["blue", "white"],
+	"language": "Japanese/Turkish/Finnish/Magyar"
+}, {
+	"allShapes": [],
+	"continent": "Europe",
+	"longlat": ["2.60926281", "46.48372145"],
+	"n_colors": "3",
+	"name": "France",
+	"mainhue": "white",
+	"religion": "Catholic",
+	"allColors": ["red", "blue", "white"],
+	"language": "French"
+}, {
+	"allShapes": [],
+	"continent": "S.America",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "French-Guiana",
+	"mainhue": "white",
+	"religion": "Catholic",
+	"allColors": ["red", "blue", "white"],
+	"language": "French"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["sunstars", 1],
+		["icon", 1]
+	],
+	"continent": "Oceania",
+	"longlat": [],
+	"n_colors": "5",
+	"name": "French-Polynesia",
+	"mainhue": "red",
+	"religion": "Catholic",
+	"allColors": ["red", "gold", "blue", "black", "white"],
+	"language": "French"
+}, {
+	"allShapes": [],
+	"continent": "Africa",
+	"longlat": ["11.43916591", "-0.43426435"],
+	"n_colors": "3",
+	"name": "Gabon",
+	"mainhue": "green",
+	"religion": "Ethnic",
+	"allColors": ["green", "gold", "blue", "green"],
+	"language": "Others"
+}, {
+	"allShapes": [],
+	"continent": "Africa",
+	"longlat": [],
+	"n_colors": "4",
+	"name": "Gambia",
+	"mainhue": "red",
+	"religion": "Ethnic",
+	"allColors": ["red", "green", "blue", "green", "white"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["icon", 1]
+	],
+	"continent": "Europe",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "Germany-DDR",
+	"mainhue": "gold",
+	"religion": "Marxist",
+	"allColors": ["red", "gold", "black"],
+	"language": "German"
+}, {
+	"allShapes": [],
+	"continent": "Europe",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "Germany-FRG",
+	"mainhue": "black",
+	"religion": "Other Christian",
+	"allColors": ["red", "gold", "black"],
+	"language": "German"
+}, {
+	"allShapes": [
+		["sunstars", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["-1.29234904", "7.69154199"],
+	"n_colors": "4",
+	"name": "Ghana",
+	"mainhue": "red",
+	"religion": "Ethnic",
+	"allColors": ["red", "green", "gold", "green", "black"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["icon", 1]
+	],
+	"continent": "Europe",
+	"longlat": ["-5.34404779", "36.14864641"],
+	"n_colors": "3",
+	"name": "Gibraltar",
+	"mainhue": "white",
+	"religion": "Other Christian",
+	"allColors": ["red", "gold", "white"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["crosses", 1],
+		["quarters", 1]
+	],
+	"continent": "Europe",
+	"longlat": ["24.53794505", "38.52254746"],
+	"n_colors": "2",
+	"name": "Greece",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["blue", "white"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["circles", 1]
+	],
+	"continent": "N.America",
+	"longlat": ["-34.38651956", "71.42932629"],
+	"n_colors": "2",
+	"name": "Greenland",
+	"mainhue": "white",
+	"religion": "Other Christian",
+	"allColors": ["red", "white"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["sunstars", 7],
+		["triangle", 1],
+		["animate", 1]
+	],
+	"continent": "N.America",
+	"longlat": ["-61.67899400", "12.11644807"],
+	"n_colors": "3",
+	"name": "Grenada",
+	"mainhue": "gold",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "gold", "green"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["icon", 1],
+		["animate", 1],
+		["text", 1]
+	],
+	"continent": "Oceania",
+	"longlat": ["144.80747791", "13.44410137"],
+	"n_colors": "7",
+	"name": "Guam",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "gold", "blue", "green", "white", "orange"],
+	"language": "English"
+}, {
+	"allShapes": [],
+	"continent": "N.America",
+	"longlat": ["-89.96707712", "15.72598421"],
+	"n_colors": "2",
+	"name": "Guatemala",
+	"mainhue": "blue",
+	"religion": "Catholic",
+	"allColors": ["blue", "white"],
+	"language": "Spanish"
+}, {
+	"allShapes": [],
+	"continent": "Africa",
+	"longlat": ["-11.31711839", "9.94301472"],
+	"n_colors": "3",
+	"name": "Guinea",
+	"mainhue": "gold",
+	"religion": "Muslim",
+	"allColors": ["red", "green", "gold", "green"],
+	"language": "French"
+}, {
+	"allShapes": [
+		["sunstars", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["-15.18040700", "11.80050682"],
+	"n_colors": "4",
+	"name": "Guinea-Bissau",
+	"mainhue": "gold",
+	"religion": "Ethnic",
+	"allColors": ["red", "green", "gold", "green", "black"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["triangle", 1]
+	],
+	"continent": "S.America",
+	"longlat": ["-58.72692293", "4.47957059"],
+	"n_colors": "5",
+	"name": "Guyana",
+	"mainhue": "green",
+	"religion": "Hindu",
+	"allColors": ["red", "green", "gold", "green", "black", "white"],
+	"language": "English"
+}, {
+	"allShapes": [],
+	"continent": "N.America",
+	"longlat": ["-72.79607526", "19.07430861"],
+	"n_colors": "2",
+	"name": "Haiti",
+	"mainhue": "black",
+	"religion": "Catholic",
+	"allColors": ["red", "black"],
+	"language": "French"
+}, {
+	"allShapes": [
+		["sunstars", 5]
+	],
+	"continent": "N.America",
+	"longlat": ["-87.01643713", "14.64994423"],
+	"n_colors": "2",
+	"name": "Honduras",
+	"mainhue": "blue",
+	"religion": "Catholic",
+	"allColors": ["blue", "white"],
+	"language": "Spanish"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["crosses", 1],
+		["saltires", 1],
+		["quarters", 1],
+		["icon", 1],
+		["animate", 1],
+		["text", 1]
+	],
+	"continent": "Asia",
+	"longlat": [],
+	"n_colors": "6",
+	"name": "Hong-Kong",
+	"mainhue": "blue",
+	"religion": "Buddhist",
+	"allColors": ["red", "green", "gold", "blue", "green", "white", "orange"],
+	"language": "Chinese"
+}, {
+	"allShapes": [],
+	"continent": "Europe",
+	"longlat": ["19.35499657", "46.97670384"],
+	"n_colors": "3",
+	"name": "Hungary",
+	"mainhue": "red",
+	"religion": "Marxist",
+	"allColors": ["red", "green", "green", "white"],
+	"language": "Japanese/Turkish/Finnish/Magyar"
+}, {
+	"allShapes": [
+		["crosses", 1]
+	],
+	"continent": "Europe",
+	"longlat": ["-18.57038755", "64.99294495"],
+	"n_colors": "3",
+	"name": "Iceland",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["red", "blue", "white"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["icon", 1]
+	],
+	"continent": "Asia",
+	"longlat": ["78.50146222", "20.46549519"],
+	"n_colors": "4",
+	"name": "India",
+	"mainhue": "orange",
+	"religion": "Hindu",
+	"allColors": ["green", "blue", "green", "white", "orange"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [],
+	"continent": "Oceania",
+	"longlat": ["121.18329789", "-2.46229680"],
+	"n_colors": "2",
+	"name": "Indonesia",
+	"mainhue": "red",
+	"religion": "Muslim",
+	"allColors": ["red", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["icon", 1],
+		["text", 1]
+	],
+	"continent": "Asia",
+	"longlat": ["51.28204814", "31.40240324"],
+	"n_colors": "3",
+	"name": "Iran",
+	"mainhue": "red",
+	"religion": "Muslim",
+	"allColors": ["red", "green", "green", "white"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["sunstars", 3]
+	],
+	"continent": "Asia",
+	"longlat": ["43.19590056", "32.90170182"],
+	"n_colors": "4",
+	"name": "Iraq",
+	"mainhue": "red",
+	"religion": "Muslim",
+	"allColors": ["red", "green", "green", "black", "white"],
+	"language": "Arabic"
+}, {
+	"allShapes": [],
+	"continent": "Europe",
+	"longlat": ["-8.21092302", "53.10101628"],
+	"n_colors": "3",
+	"name": "Ireland",
+	"mainhue": "white",
+	"religion": "Catholic",
+	"allColors": ["green", "green", "white", "orange"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["sunstars", 1]
+	],
+	"continent": "Asia",
+	"longlat": ["34.91753797", "30.85883075"],
+	"n_colors": "2",
+	"name": "Israel",
+	"mainhue": "white",
+	"religion": "Others",
+	"allColors": ["blue", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [],
+	"continent": "Europe",
+	"longlat": ["12.67725128", "41.77810840"],
+	"n_colors": "3",
+	"name": "Italy",
+	"mainhue": "white",
+	"religion": "Catholic",
+	"allColors": ["red", "green", "green", "white"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [],
+	"continent": "Africa",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "Ivory-Coast",
+	"mainhue": "white",
+	"religion": "Ethnic",
+	"allColors": ["red", "green", "green", "white"],
+	"language": "French"
+}, {
+	"allShapes": [
+		["saltires", 1],
+		["triangle", 1]
+	],
+	"continent": "N.America",
+	"longlat": ["-77.29750600", "18.10838487"],
+	"n_colors": "3",
+	"name": "Jamaica",
+	"mainhue": "green",
+	"religion": "Other Christian",
+	"allColors": ["green", "gold", "green", "black"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["sunstars", 1]
+	],
+	"continent": "Asia",
+	"longlat": ["137.67066061", "37.51848822"],
+	"n_colors": "2",
+	"name": "Japan",
+	"mainhue": "white",
+	"religion": "Others",
+	"allColors": ["red", "white"],
+	"language": "Japanese/Turkish/Finnish/Magyar"
+}, {
+	"allShapes": [
+		["sunstars", 1],
+		["triangle", 1]
+	],
+	"continent": "Asia",
+	"longlat": ["36.37575510", "31.31616588"],
+	"n_colors": "4",
+	"name": "Jordan",
+	"mainhue": "black",
+	"religion": "Muslim",
+	"allColors": ["red", "green", "green", "black", "white"],
+	"language": "Arabic"
+}, {
+	"allShapes": [
+		["icon", 1]
+	],
+	"continent": "Asia",
+	"longlat": [],
+	"n_colors": "2",
+	"name": "Kampuchea",
+	"mainhue": "red",
+	"religion": "Buddhist",
+	"allColors": ["red", "gold"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["icon", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["37.97212297", "0.19582452"],
+	"n_colors": "4",
+	"name": "Kenya",
+	"mainhue": "red",
+	"religion": "Ethnic",
+	"allColors": ["red", "green", "green", "black", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["sunstars", 1],
+		["icon", 1],
+		["animate", 1]
+	],
+	"continent": "Oceania",
+	"longlat": ["-157.36259310", "1.87085244"],
+	"n_colors": "4",
+	"name": "Kiribati",
+	"mainhue": "red",
+	"religion": "Other Christian",
+	"allColors": ["red", "gold", "blue", "white"],
+	"language": "English"
+}, {
+	"allShapes": [],
+	"continent": "Asia",
+	"longlat": ["47.71798405", "29.43253341"],
+	"n_colors": "4",
+	"name": "Kuwait",
+	"mainhue": "green",
+	"religion": "Muslim",
+	"allColors": ["red", "green", "green", "black", "white"],
+	"language": "Arabic"
+}, {
+	"allShapes": [
+		["circles", 1]
+	],
+	"continent": "Asia",
+	"longlat": ["103.61611347", "17.76075593"],
+	"n_colors": "3",
+	"name": "Laos",
+	"mainhue": "red",
+	"religion": "Marxist",
+	"allColors": ["red", "blue", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["animate", 1]
+	],
+	"continent": "Asia",
+	"longlat": ["35.66454309", "34.08249284"],
+	"n_colors": "4",
+	"name": "Lebanon",
+	"mainhue": "red",
+	"religion": "Muslim",
+	"allColors": ["red", "green", "green", "white", "orange"],
+	"language": "Arabic"
+}, {
+	"allShapes": [
+		["icon", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["28.23361200", "-29.60303205"],
+	"n_colors": "4",
+	"name": "Lesotho",
+	"mainhue": "blue",
+	"religion": "Ethnic",
+	"allColors": ["red", "green", "blue", "green", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["quarters", 1],
+		["sunstars", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["-9.39103485", "6.44154681"],
+	"n_colors": "3",
+	"name": "Liberia",
+	"mainhue": "red",
+	"religion": "Ethnic",
+	"allColors": ["red", "blue", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [],
+	"continent": "Africa",
+	"longlat": ["18.19513987", "27.06902914"],
+	"n_colors": "1",
+	"name": "Libya",
+	"mainhue": "green",
+	"religion": "Muslim",
+	"allColors": ["green", "green"],
+	"language": "Arabic"
+}, {
+	"allShapes": [
+		["icon", 1]
+	],
+	"continent": "Europe",
+	"longlat": ["9.55537700", "47.16587383"],
+	"n_colors": "3",
+	"name": "Liechtenstein",
+	"mainhue": "red",
+	"religion": "Catholic",
+	"allColors": ["red", "gold", "blue"],
+	"language": "German"
+}, {
+	"allShapes": [],
+	"continent": "Europe",
+	"longlat": ["6.12958700", "49.81327712"],
+	"n_colors": "3",
+	"name": "Luxembourg",
+	"mainhue": "red",
+	"religion": "Catholic",
+	"allColors": ["red", "blue", "white"],
+	"language": "German"
+}, {
+	"allShapes": [],
+	"continent": "Africa",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "Malagasy",
+	"mainhue": "red",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "green", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["sunstars", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["34.14223524", "-12.48684092"],
+	"n_colors": "3",
+	"name": "Malawi",
+	"mainhue": "red",
+	"religion": "Ethnic",
+	"allColors": ["red", "green", "green", "black"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["quarters", 1],
+		["sunstars", 1],
+		["crescent", 1]
+	],
+	"continent": "Asia",
+	"longlat": ["106.54609050", "4.97345793"],
+	"n_colors": "4",
+	"name": "Malaysia",
+	"mainhue": "red",
+	"religion": "Muslim",
+	"allColors": ["red", "gold", "blue", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["crescent", 1]
+	],
+	"continent": "Asia",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "Maldive-Islands",
+	"mainhue": "red",
+	"religion": "Muslim",
+	"allColors": ["red", "green", "green", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [],
+	"continent": "Africa",
+	"longlat": ["-1.96368730", "17.69385811"],
+	"n_colors": "3",
+	"name": "Mali",
+	"mainhue": "gold",
+	"religion": "Muslim",
+	"allColors": ["red", "green", "gold", "green"],
+	"language": "French"
+}, {
+	"allShapes": [
+		["crosses", 1],
+		["icon", 1]
+	],
+	"continent": "Europe",
+	"longlat": ["14.43687877", "35.89706403"],
+	"n_colors": "3",
+	"name": "Malta",
+	"mainhue": "red",
+	"religion": "Catholic",
+	"allColors": ["red", "black", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["sunstars", 1],
+		["icon", 1]
+	],
+	"continent": "Oceania",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "Marianas",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["blue", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["sunstars", 1],
+		["crescent", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["-10.21573334", "20.28331239"],
+	"n_colors": "2",
+	"name": "Mauritania",
+	"mainhue": "green",
+	"religion": "Muslim",
+	"allColors": ["green", "gold", "green"],
+	"language": "Arabic"
+}, {
+	"allShapes": [],
+	"continent": "Africa",
+	"longlat": ["57.56588291", "-20.28368188"],
+	"n_colors": "4",
+	"name": "Mauritius",
+	"mainhue": "red",
+	"religion": "Hindu",
+	"allColors": ["red", "green", "gold", "blue", "green"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["animate", 1]
+	],
+	"continent": "N.America",
+	"longlat": ["-102.33305344", "22.92036676"],
+	"n_colors": "4",
+	"name": "Mexico",
+	"mainhue": "green",
+	"religion": "Catholic",
+	"allColors": ["red", "green", "green", "white", "orange"],
+	"language": "Spanish"
+}, {
+	"allShapes": [
+		["sunstars", 4]
+	],
+	"continent": "Oceania",
+	"longlat": ["158.21507170", "6.88747377"],
+	"n_colors": "2",
+	"name": "Micronesia",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["blue", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [],
+	"continent": "Europe",
+	"longlat": ["6.75444978", "43.70463620"],
+	"n_colors": "2",
+	"name": "Monaco",
+	"mainhue": "red",
+	"religion": "Catholic",
+	"allColors": ["red", "white"],
+	"language": "French"
+}, {
+	"allShapes": [
+		["circles", 2],
+		["sunstars", 1],
+		["crescent", 1],
+		["triangle", 1],
+		["icon", 1]
+	],
+	"continent": "Asia",
+	"longlat": ["104.30808978", "46.80556270"],
+	"n_colors": "3",
+	"name": "Mongolia",
+	"mainhue": "red",
+	"religion": "Marxist",
+	"allColors": ["red", "gold", "blue"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["crosses", 2],
+		["saltires", 1],
+		["quarters", 1],
+		["icon", 1],
+		["animate", 1]
+	],
+	"continent": "N.America",
+	"longlat": ["-62.18736600", "16.74774077"],
+	"n_colors": "7",
+	"name": "Montserrat",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "gold", "blue", "green", "black", "white"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["sunstars", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["-7.26839325", "31.95441758"],
+	"n_colors": "2",
+	"name": "Morocco",
+	"mainhue": "red",
+	"religion": "Muslim",
+	"allColors": ["red", "green", "green"],
+	"language": "Arabic"
+}, {
+	"allShapes": [
+		["sunstars", 1],
+		["triangle", 1],
+		["icon", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["33.81570282", "-19.07617816"],
+	"n_colors": "5",
+	"name": "Mozambique",
+	"mainhue": "gold",
+	"religion": "Ethnic",
+	"allColors": ["red", "green", "gold", "green", "black", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["sunstars", 1]
+	],
+	"continent": "Oceania",
+	"longlat": ["166.93270463", "-0.52586763"],
+	"n_colors": "3",
+	"name": "Nauru",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["gold", "blue", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["sunstars", 2],
+		["crescent", 1]
+	],
+	"continent": "Asia",
+	"longlat": ["83.98119373", "28.28430770"],
+	"n_colors": "3",
+	"name": "Nepal",
+	"mainhue": "brown",
+	"religion": "Hindu",
+	"allColors": ["blue", "white", "orange"],
+	"language": "Others"
+}, {
+	"allShapes": [],
+	"continent": "Europe",
+	"longlat": ["4.98914998", "52.33939951"],
+	"n_colors": "3",
+	"name": "Netherlands",
+	"mainhue": "red",
+	"religion": "Other Christian",
+	"allColors": ["red", "blue", "white"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["sunstars", 6]
+	],
+	"continent": "N.America",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "Netherlands-Antilles",
+	"mainhue": "white",
+	"religion": "Other Christian",
+	"allColors": ["red", "blue", "white"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["crosses", 1],
+		["saltires", 1],
+		["quarters", 1],
+		["sunstars", 4]
+	],
+	"continent": "Oceania",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "New-Zealand",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["red", "blue", "white"],
+	"language": "English"
+}, {
+	"allShapes": [],
+	"continent": "N.America",
+	"longlat": ["-84.82270352", "12.91806226"],
+	"n_colors": "2",
+	"name": "Nicaragua",
+	"mainhue": "blue",
+	"religion": "Catholic",
+	"allColors": ["blue", "white"],
+	"language": "Spanish"
+}, {
+	"allShapes": [
+		["circles", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["8.23547860", "17.23446679"],
+	"n_colors": "3",
+	"name": "Niger",
+	"mainhue": "orange",
+	"religion": "Muslim",
+	"allColors": ["green", "green", "white", "orange"],
+	"language": "French"
+}, {
+	"allShapes": [],
+	"continent": "Africa",
+	"longlat": ["7.82933373", "9.02165273"],
+	"n_colors": "2",
+	"name": "Nigeria",
+	"mainhue": "green",
+	"religion": "Muslim",
+	"allColors": ["green", "green", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["crosses", 1],
+		["saltires", 1],
+		["quarters", 1],
+		["sunstars", 5]
+	],
+	"continent": "Oceania",
+	"longlat": ["-169.86585571", "-19.04976362"],
+	"n_colors": "4",
+	"name": "Niue",
+	"mainhue": "gold",
+	"religion": "Other Christian",
+	"allColors": ["red", "gold", "blue", "white"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["sunstars", 1]
+	],
+	"continent": "Asia",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "North-Korea",
+	"mainhue": "blue",
+	"religion": "Marxist",
+	"allColors": ["red", "blue", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["sunstars", 1]
+	],
+	"continent": "Asia",
+	"longlat": [],
+	"n_colors": "4",
+	"name": "North-Yemen",
+	"mainhue": "red",
+	"religion": "Muslim",
+	"allColors": ["red", "green", "green", "black", "white"],
+	"language": "Arabic"
+}, {
+	"allShapes": [
+		["crosses", 1]
+	],
+	"continent": "Europe",
+	"longlat": ["13.50069228", "65.04680297"],
+	"n_colors": "3",
+	"name": "Norway",
+	"mainhue": "red",
+	"religion": "Other Christian",
+	"allColors": ["red", "blue", "white"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["icon", 1]
+	],
+	"continent": "Asia",
+	"longlat": ["56.69230596", "20.69906846"],
+	"n_colors": "3",
+	"name": "Oman",
+	"mainhue": "red",
+	"religion": "Muslim",
+	"allColors": ["red", "green", "green", "white"],
+	"language": "Arabic"
+}, {
+	"allShapes": [
+		["sunstars", 1],
+		["crescent", 1]
+	],
+	"continent": "Asia",
+	"longlat": ["70.34487986", "29.90335974"],
+	"n_colors": "2",
+	"name": "Pakistan",
+	"mainhue": "green",
+	"religion": "Muslim",
+	"allColors": ["green", "green", "white"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["quarters", 4],
+		["sunstars", 2]
+	],
+	"continent": "S.America",
+	"longlat": ["-80.04603702", "8.52135102"],
+	"n_colors": "3",
+	"name": "Panama",
+	"mainhue": "red",
+	"religion": "Catholic",
+	"allColors": ["red", "blue", "white"],
+	"language": "Spanish"
+}, {
+	"allShapes": [
+		["sunstars", 5],
+		["triangle", 1],
+		["animate", 1]
+	],
+	"continent": "Oceania",
+	"longlat": [],
+	"n_colors": "4",
+	"name": "Papua-New-Guinea",
+	"mainhue": "black",
+	"religion": "Ethnic",
+	"allColors": ["red", "gold", "black", "white"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["sunstars", 1],
+		["icon", 1],
+		["animate", 1],
+		["text", 1]
+	],
+	"continent": "S.America",
+	"longlat": [],
+	"n_colors": "6",
+	"name": "Parguay",
+	"mainhue": "red",
+	"religion": "Catholic",
+	"allColors": ["red", "green", "gold", "blue", "green", "black", "white"],
+	"language": "Spanish"
+}, {
+	"allShapes": [],
+	"continent": "S.America",
+	"longlat": ["-76.15772412", "-8.50205247"],
+	"n_colors": "2",
+	"name": "Peru",
+	"mainhue": "red",
+	"religion": "Catholic",
+	"allColors": ["red", "white"],
+	"language": "Spanish"
+}, {
+	"allShapes": [
+		["sunstars", 4],
+		["triangle", 1]
+	],
+	"continent": "Oceania",
+	"longlat": ["121.77401700", "12.82361200"],
+	"n_colors": "4",
+	"name": "Philippines",
+	"mainhue": "blue",
+	"religion": "Catholic",
+	"allColors": ["red", "gold", "blue", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [],
+	"continent": "Europe",
+	"longlat": ["19.33190957", "52.10117636"],
+	"n_colors": "2",
+	"name": "Poland",
+	"mainhue": "white",
+	"religion": "Marxist",
+	"allColors": ["red", "white"],
+	"language": "Slavic"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["icon", 1]
+	],
+	"continent": "Europe",
+	"longlat": ["-8.03768042", "39.44879136"],
+	"n_colors": "5",
+	"name": "Portugal",
+	"mainhue": "red",
+	"religion": "Catholic",
+	"allColors": ["red", "green", "gold", "blue", "green", "white"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["sunstars", 1],
+		["triangle", 1]
+	],
+	"continent": "N.America",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "Puerto-Rico",
+	"mainhue": "red",
+	"religion": "Catholic",
+	"allColors": ["red", "blue", "white"],
+	"language": "Spanish"
+}, {
+	"allShapes": [],
+	"continent": "Asia",
+	"longlat": ["51.24431480", "25.24551555"],
+	"n_colors": "2",
+	"name": "Qatar",
+	"mainhue": "brown",
+	"religion": "Muslim",
+	"allColors": ["white", "orange"],
+	"language": "Arabic"
+}, {
+	"allShapes": [
+		["sunstars", 2],
+		["icon", 1],
+		["animate", 1],
+		["text", 1]
+	],
+	"continent": "Europe",
+	"longlat": ["25.21945155", "45.56450023"],
+	"n_colors": "7",
+	"name": "Romania",
+	"mainhue": "red",
+	"religion": "Marxist",
+	"allColors": ["red", "green", "gold", "blue", "green", "white", "orange"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["text", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["29.94255855", "-1.98589079"],
+	"n_colors": "4",
+	"name": "Rwanda",
+	"mainhue": "red",
+	"religion": "Ethnic",
+	"allColors": ["red", "green", "gold", "green", "black"],
+	"language": "Others"
+}, {
+	"allShapes": [],
+	"continent": "Europe",
+	"longlat": [],
+	"n_colors": "2",
+	"name": "San-Marino",
+	"mainhue": "white",
+	"religion": "Catholic",
+	"allColors": ["blue", "white"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["sunstars", 2],
+		["triangle", 1]
+	],
+	"continent": "Africa",
+	"longlat": [],
+	"n_colors": "4",
+	"name": "Sao-Tome",
+	"mainhue": "green",
+	"religion": "Catholic",
+	"allColors": ["red", "green", "gold", "green", "black"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["icon", 1],
+		["text", 1]
+	],
+	"continent": "Asia",
+	"longlat": [],
+	"n_colors": "2",
+	"name": "Saudi-Arabia",
+	"mainhue": "green",
+	"religion": "Muslim",
+	"allColors": ["green", "green", "white"],
+	"language": "Arabic"
+}, {
+	"allShapes": [
+		["sunstars", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["-14.68306489", "14.43579003"],
+	"n_colors": "3",
+	"name": "Senegal",
+	"mainhue": "green",
+	"religion": "Muslim",
+	"allColors": ["red", "green", "gold", "green"],
+	"language": "French"
+}, {
+	"allShapes": [],
+	"continent": "Africa",
+	"longlat": ["55.49061371", "-4.68053204"],
+	"n_colors": "3",
+	"name": "Seychelles",
+	"mainhue": "red",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "green", "white"],
+	"language": "English"
+}, {
+	"allShapes": [],
+	"continent": "Africa",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "Sierra-Leone",
+	"mainhue": "green",
+	"religion": "Ethnic",
+	"allColors": ["green", "blue", "green", "white"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["sunstars", 5],
+		["crescent", 1]
+	],
+	"continent": "Asia",
+	"longlat": ["103.83323559", "1.33873261"],
+	"n_colors": "2",
+	"name": "Singapore",
+	"mainhue": "white",
+	"religion": "Buddhist",
+	"allColors": ["red", "white"],
+	"language": "Chinese"
+}, {
+	"allShapes": [
+		["sunstars", 5],
+		["triangle", 1]
+	],
+	"continent": "Oceania",
+	"longlat": [],
+	"n_colors": "4",
+	"name": "Soloman-Islands",
+	"mainhue": "green",
+	"religion": "Other Christian",
+	"allColors": ["green", "gold", "blue", "green", "white"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["sunstars", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["45.27676444", "2.87224619"],
+	"n_colors": "2",
+	"name": "Somalia",
+	"mainhue": "blue",
+	"religion": "Muslim",
+	"allColors": ["blue", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["crosses", 1],
+		["saltires", 1]
+	],
+	"continent": "Africa",
+	"longlat": [],
+	"n_colors": "5",
+	"name": "South-Africa",
+	"mainhue": "orange",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "blue", "green", "white", "orange"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["icon", 1]
+	],
+	"continent": "Asia",
+	"longlat": [],
+	"n_colors": "4",
+	"name": "South-Korea",
+	"mainhue": "white",
+	"religion": "Others",
+	"allColors": ["red", "blue", "black", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["sunstars", 1],
+		["triangle", 1]
+	],
+	"continent": "Asia",
+	"longlat": [],
+	"n_colors": "4",
+	"name": "South-Yemen",
+	"mainhue": "red",
+	"religion": "Muslim",
+	"allColors": ["red", "blue", "black", "white"],
+	"language": "Arabic"
+}, {
+	"allShapes": [],
+	"continent": "Europe",
+	"longlat": ["-3.67089492", "39.87299401"],
+	"n_colors": "2",
+	"name": "Spain",
+	"mainhue": "red",
+	"religion": "Catholic",
+	"allColors": ["red", "gold"],
+	"language": "Spanish"
+}, {
+	"allShapes": [
+		["icon", 1],
+		["animate", 1]
+	],
+	"continent": "Asia",
+	"longlat": [],
+	"n_colors": "4",
+	"name": "Sri-Lanka",
+	"mainhue": "gold",
+	"religion": "Buddhist",
+	"allColors": ["green", "gold", "green", "orange"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["crosses", 1],
+		["saltires", 1],
+		["quarters", 1],
+		["icon", 1]
+	],
+	"continent": "Africa",
+	"longlat": [],
+	"n_colors": "7",
+	"name": "St-Helena",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "gold", "blue", "green", "white", "orange"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["sunstars", 2],
+		["triangle", 1]
+	],
+	"continent": "N.America",
+	"longlat": [],
+	"n_colors": "5",
+	"name": "St-Kitts-Nevis",
+	"mainhue": "green",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "gold", "green", "black", "white"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["triangle", 1]
+	],
+	"continent": "N.America",
+	"longlat": [],
+	"n_colors": "4",
+	"name": "St-Lucia",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["gold", "blue", "black", "white"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["icon", 1],
+		["animate", 1],
+		["text", 1]
+	],
+	"continent": "N.America",
+	"longlat": [],
+	"n_colors": "4",
+	"name": "St-Vincent",
+	"mainhue": "green",
+	"religion": "Other Christian",
+	"allColors": ["green", "gold", "blue", "green", "white"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["triangle", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["30.37145459", "15.96646839"],
+	"n_colors": "4",
+	"name": "Sudan",
+	"mainhue": "red",
+	"religion": "Muslim",
+	"allColors": ["red", "green", "green", "black", "white"],
+	"language": "Arabic"
+}, {
+	"allShapes": [
+		["sunstars", 1]
+	],
+	"continent": "S.America",
+	"longlat": [],
+	"n_colors": "4",
+	"name": "Surinam",
+	"mainhue": "red",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "gold", "green", "white"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["icon", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["31.47960891", "-26.53892570"],
+	"n_colors": "7",
+	"name": "Swaziland",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["red", "gold", "blue", "black", "white", "orange"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["crosses", 1]
+	],
+	"continent": "Europe",
+	"longlat": ["16.73188991", "61.42370427"],
+	"n_colors": "2",
+	"name": "Sweden",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["gold", "blue"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["crosses", 1]
+	],
+	"continent": "Europe",
+	"longlat": ["8.22751200", "46.81010721"],
+	"n_colors": "2",
+	"name": "Switzerland",
+	"mainhue": "red",
+	"religion": "Other Christian",
+	"allColors": ["red", "white"],
+	"language": "German"
+}, {
+	"allShapes": [
+		["sunstars", 2]
+	],
+	"continent": "Asia",
+	"longlat": ["38.66723516", "34.71097430"],
+	"n_colors": "4",
+	"name": "Syria",
+	"mainhue": "red",
+	"religion": "Muslim",
+	"allColors": ["red", "green", "green", "black", "white"],
+	"language": "Arabic"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["quarters", 1],
+		["sunstars", 1]
+	],
+	"continent": "Asia",
+	"longlat": ["121.10884043", "23.71891402"],
+	"n_colors": "3",
+	"name": "Taiwan",
+	"mainhue": "red",
+	"religion": "Buddhist",
+	"allColors": ["red", "blue", "white"],
+	"language": "Chinese"
+}, {
+	"allShapes": [
+		["triangle", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["34.85587302", "-6.37551085"],
+	"n_colors": "4",
+	"name": "Tanzania",
+	"mainhue": "green",
+	"religion": "Ethnic",
+	"allColors": ["green", "gold", "blue", "green", "black"],
+	"language": "Others"
+}, {
+	"allShapes": [],
+	"continent": "Asia",
+	"longlat": ["101.38805881", "14.60009810"],
+	"n_colors": "3",
+	"name": "Thailand",
+	"mainhue": "red",
+	"religion": "Buddhist",
+	"allColors": ["red", "blue", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["quarters", 1],
+		["sunstars", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["0.86049757", "8.68089206"],
+	"n_colors": "4",
+	"name": "Togo",
+	"mainhue": "green",
+	"religion": "Others",
+	"allColors": ["red", "green", "gold", "green", "white"],
+	"language": "French"
+}, {
+	"allShapes": [
+		["crosses", 1],
+		["quarters", 1]
+	],
+	"continent": "Oceania",
+	"longlat": ["-175.19824200", "-21.17890075"],
+	"n_colors": "2",
+	"name": "Tonga",
+	"mainhue": "red",
+	"religion": "Other Christian",
+	"allColors": ["red", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["triangle", 1]
+	],
+	"continent": "S.America",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "Trinidad-Tobago",
+	"mainhue": "red",
+	"religion": "Other Christian",
+	"allColors": ["red", "black", "white"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["sunstars", 1],
+		["crescent", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["9.71878341", "33.88431940"],
+	"n_colors": "2",
+	"name": "Tunisia",
+	"mainhue": "red",
+	"religion": "Muslim",
+	"allColors": ["red", "white"],
+	"language": "Arabic"
+}, {
+	"allShapes": [
+		["sunstars", 1],
+		["crescent", 1]
+	],
+	"continent": "Asia",
+	"longlat": ["36.28703317", "38.27069555"],
+	"n_colors": "2",
+	"name": "Turkey",
+	"mainhue": "red",
+	"religion": "Muslim",
+	"allColors": ["red", "white"],
+	"language": "Japanese/Turkish/Finnish/Magyar"
+}, {
+	"allShapes": [
+		["crosses", 1],
+		["saltires", 1],
+		["quarters", 1],
+		["icon", 1],
+		["animate", 1]
+	],
+	"continent": "N.America",
+	"longlat": [],
+	"n_colors": "6",
+	"name": "Turks-Cocos-Islands",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "gold", "blue", "green", "white", "orange"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["crosses", 1],
+		["saltires", 1],
+		["quarters", 1],
+		["sunstars", 9]
+	],
+	"continent": "Oceania",
+	"longlat": ["179.13310944", "-8.45968122"],
+	"n_colors": "5",
+	"name": "Tuvalu",
+	"mainhue": "blue",
+	"religion": "Other Christian",
+	"allColors": ["red", "gold", "blue", "white"],
+	"language": "English"
+}, {
+	"allShapes": [],
+	"continent": "Asia",
+	"longlat": [],
+	"n_colors": "4",
+	"name": "UAE",
+	"mainhue": "green",
+	"religion": "Muslim",
+	"allColors": ["red", "green", "green", "black", "white"],
+	"language": "Arabic"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["animate", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["32.44409759", "1.54760620"],
+	"n_colors": "5",
+	"name": "Uganda",
+	"mainhue": "gold",
+	"religion": "Ethnic",
+	"allColors": ["red", "gold", "black", "white"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["crosses", 1],
+		["saltires", 1]
+	],
+	"continent": "Europe",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "UK",
+	"mainhue": "red",
+	"religion": "Other Christian",
+	"allColors": ["red", "blue", "white"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["quarters", 1],
+		["sunstars", 1]
+	],
+	"continent": "S.America",
+	"longlat": ["-55.76583300", "-32.49342987"],
+	"n_colors": "3",
+	"name": "Uruguay",
+	"mainhue": "white",
+	"religion": "Catholic",
+	"allColors": ["gold", "blue", "white"],
+	"language": "Spanish"
+}, {
+	"allShapes": [
+		["icon", 1],
+		["animate", 1],
+		["text", 1]
+	],
+	"continent": "N.America",
+	"longlat": [],
+	"n_colors": "6",
+	"name": "US-Virgin-Isles",
+	"mainhue": "white",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "gold", "blue", "green", "white"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["quarters", 1],
+		["sunstars", 50]
+	],
+	"continent": "N.America",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "USA",
+	"mainhue": "white",
+	"religion": "Other Christian",
+	"allColors": ["red", "blue", "white"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["sunstars", 1],
+		["icon", 1]
+	],
+	"continent": "Asia",
+	"longlat": [],
+	"n_colors": "2",
+	"name": "USSR",
+	"mainhue": "red",
+	"religion": "Marxist",
+	"allColors": ["red", "gold"],
+	"language": "Slavic"
+}, {
+	"allShapes": [
+		["triangle", 1],
+		["animate", 1]
+	],
+	"continent": "Oceania",
+	"longlat": ["166.95916000", "-15.37256614"],
+	"n_colors": "4",
+	"name": "Vanuatu",
+	"mainhue": "red",
+	"religion": "Other Christian",
+	"allColors": ["red", "green", "gold", "green", "black"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["icon", 1]
+	],
+	"continent": "Europe",
+	"longlat": [],
+	"n_colors": "4",
+	"name": "Vatican-City",
+	"mainhue": "gold",
+	"religion": "Catholic",
+	"allColors": ["red", "gold", "black", "white"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["sunstars", 7],
+		["icon", 1],
+		["animate", 1]
+	],
+	"continent": "S.America",
+	"longlat": ["-65.94152264", "5.98477766"],
+	"n_colors": "7",
+	"name": "Venezuela",
+	"mainhue": "red",
+	"religion": "Catholic",
+	"allColors": ["red", "green", "gold", "blue", "green", "black", "white", "orange"],
+	"language": "Spanish"
+}, {
+	"allShapes": [
+		["sunstars", 1]
+	],
+	"continent": "Asia",
+	"longlat": [],
+	"n_colors": "2",
+	"name": "Vietnam",
+	"mainhue": "red",
+	"religion": "Marxist",
+	"allColors": ["red", "gold"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["quarters", 1],
+		["sunstars", 5]
+	],
+	"continent": "Oceania",
+	"longlat": [],
+	"n_colors": "3",
+	"name": "Western-Samoa",
+	"mainhue": "red",
+	"religion": "Other Christian",
+	"allColors": ["red", "blue", "white"],
+	"language": "English"
+}, {
+	"allShapes": [
+		["sunstars", 1]
+	],
+	"continent": "Europe",
+	"longlat": [],
+	"n_colors": "4",
+	"name": "Yugoslavia",
+	"mainhue": "red",
+	"religion": "Marxist",
+	"allColors": ["red", "gold", "blue", "white"],
+	"language": "Other Indo-European"
+}, {
+	"allShapes": [
+		["circles", 1],
+		["icon", 1],
+		["animate", 1]
+	],
+	"continent": "Africa",
+	"longlat": [],
+	"n_colors": "4",
+	"name": "Zaire",
+	"mainhue": "green",
+	"religion": "Ethnic",
+	"allColors": ["red", "green", "gold", "green", "orange"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["animate", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["28.33274444", "-13.01812188"],
+	"n_colors": "4",
+	"name": "Zambia",
+	"mainhue": "green",
+	"religion": "Ethnic",
+	"allColors": ["red", "green", "green", "black", "orange"],
+	"language": "Others"
+}, {
+	"allShapes": [
+		["sunstars", 1],
+		["triangle", 1],
+		["icon", 1],
+		["animate", 1]
+	],
+	"continent": "Africa",
+	"longlat": ["30.18758584", "-19.00784952"],
+	"n_colors": "5",
+	"name": "Zimbabwe",
+	"mainhue": "green",
+	"religion": "Ethnic",
+	"allColors": ["red", "green", "gold", "green", "black", "white"],
+	"language": "Others"
+}]

@@ -1,0 +1,100 @@
+<html>
+<head>
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+
+</head>
+<body>
+	<div>
+		<p class = "bigtitle">  &nbsp;&nbsp;&nbsp; Fun of Flags    </p>
+		<p class = "subtitle">(Inspired by Dr. Sheldon Cooper!)</p>
+		<hr class = "pt10">
+	</div>
+
+
+	<div id= "strip_flag">
+		<script src="js/stripes.js"></script>
+	</div>
+	<div id = "text1" class = "inlinetext">
+		<font class = "emphasistext"color="#FF0000" >Red </font> and <font class = "emphasistext"color="#fffff" > white</font> are the most frequently used colors in flags worldwide, more than <font class = "emphasistext"> 70% </font> countries have either of these two colors on their flags. 
+		And 7 colors can cover all the colors used across all the countries.
+		<hr class = "pt10">
+	</div>
+
+
+	<div id="donut_chart" >
+		<script src="js/donut_chart.js"></script>	
+	</div>
+	<div id = "text2" class = "inlinetext">
+	<p>
+		Most of the countries have <font class = "emphasistext"color="#FFE4E1" ><=4 colors </font>on their flag, and <font class = "emphasistext"color="#FFE4E1" >3 color </font>is the most popular pattern seen;<br/>
+		Almost <font class = "emphasistext"color="#FFE4E1" >half </font> of the countries have <font class = "emphasistext"color="#FFE4E1" > <= 2 shapes </font> on their flags. Among these, more than half choose to use <font class = "emphasistext"color="#FFE4E1" >only 1 </font> element on their flag.<br/>
+		So, the design of the flag is really simple! <font class = "emphasistext"color="#FFE4E1" >3 colors and 1 element, </font>you have a flag!
+		<br/>
+		<br/>
+	</p>
+	<hr>
+
+	</div>	
+
+	<div id="bar_chart" >
+		<script type="text/javascript" src="data/cont_color.json"></script>
+		<script type="text/javascript" src="data/cont_reli.json"></script>
+		<script type="text/javascript" src="data/religion_color.json"></script>
+		<script src="js/bar_chart.js"></script>
+	</div>
+	<div id = "text3" class = "inlinetext">
+		We can see that <font class = "emphasistext"color="#FF0000" >Red </font> is shown in top position in every continent and every religion, this is consistent with our result in the first visualization, which tells that red is the most popular color. <br/>
+		Considering the second most popular color, we can divided the regions into two different kinds, <font class = "emphasistext" color="#fffff">Africa and Asia</FONT> prefer <font class = "emphasistext"color="#4EEE94" >green </font>, while other continents prefer <font class = "emphasistext"color="#00BFFF" > blue </font>. This result is somewhat influenced by the religion practiced by the country. As <font class = "emphasistext" color="#fffff">Muslim</font> prefers <font class = "emphasistext"color="#4EEE94" >green </font> and a large percentage of countries in  <font class = "emphasistext" color="#fffff">Africa and Asia</FONT> are <font class = "emphasistext" color="#fffff">Muslim</font>, the color  <font class = "emphasistext"color="#4EEE94" >green </font>  appears more. In the same way,  <font class = "emphasistext" color="#fffff">Catholic and other Christian</font> religions prefer <font class = "emphasistext"color="#00BFFF" > blue </font>, thus continents where these two religions are concentrated (Oceania, S.America, N.America) have more of blue color in their flags.<br/><br/>
+
+		<hr>
+	</div>
+	<div id="heat_map" >
+		<script src="js/heat_map.js"></script>
+	</div>
+	<div id = "text4" class = "inlinetext">
+
+		Every religion not only has a preferred colored, they also have their own shape.</br>
+		<font class = "emphasistext" color="#fffff">Stars and stripes </font> are commonly used in every religion, <font class = "emphasistext" color="#fffff">crescent </font> is preferred by Muslim for in their culture, <font class = "emphasistext" color="#fffff">crescent and stars</font> are the symbols of Muslim country. <br/>
+		<font class = "emphasistext" color="#fffff">Crescent</font> has long been a religious cult in Arabic area, for the day is too hot and people usually do all the work at night under the light of moon. Also in the history of Muslim countries, <font class = "emphasistext" color="#fffff">crescents and stars </font>were one of the symbols of power and people still worship them.
+
+		Similarly we see that <font class = "emphasistext" color="#fffff">crosses</font> are preferred by the Catholic. According to history it is raised from Christian-civilization. For the death of Christ was on the cross for the happiness for his people and to remember his sacrifice, cross was adapted as a symbol of Christianity. 
+		<br/>
+		<br/>
+		<hr class = "pt10">
+	</div>
+
+
+	<div id = "text5" class = "lasttext">
+		After reading all of the above, can you guess how many flags you can put in a simple stripe picture?</br>
+		<br/>
+		5? <br/><br/>10?</br>
+		<br/>
+		Scroll down to find the answer:
+		<br>
+		<hr class = "pt10">
+	</div>
+	<div id = "color_flag" >
+		<script src="js/color_flag.js"></script>
+	</div>
+	<div>
+		<p class = "lasttext">
+		 The answer is more than 18! Surpise!
+		</p>
+		<p class = "inlinetext">
+		 For the result we get above, we know most countries use stripes on their flags and most of them use a simple three color pattern, so the conclusion is not very hard to believe!
+		</p>
+		<br/>
+		<br/>
+		<hr>
+	</div>
+
+</body>
+<footer>
+  <p class="textClass">Created by: <a href="https://www.facebook.com/snigdha333">Devi Snigdha M</a>, <a href="https://www.facebook.com/di.jiang.714?fref=ts">Di Jhang</a>, <a href="https://www.facebook.com/clare.zhao.376?fref=ts"> Ziwei Zhao</a> </p>
+  <p class="textClass"> DataSource <a href="https://archive.ics.uci.edu/ml/datasets/Flags">UCI Machine Learning Repository</a></p>
+  <p class="textClass"> Visualization Ideas from: <a href="https://github.com/mbostock/d3/wiki/Gallery"> D3.js Gallery</a></p>
+</footer>
+</html>

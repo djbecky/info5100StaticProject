@@ -1,0 +1,19 @@
+var contReli = [{
+	"reli": ["Muslim", "Muslim", "Muslim", "Others", "Muslim", "Others", "Marxist", "Others", "Others", "Muslim", "Muslim", "Others", "Others", "Muslim", "Others", "Muslim", "Marxist", "Muslim", "Muslim", "Muslim", "Marxist", "Others", "Marxist", "Muslim", "Muslim", "Muslim", "Muslim", "Muslim", "Others", "Others", "Others", "Muslim", "Others", "Others", "Muslim", "Muslim", "Marxist", "Marxist"],
+	"name": "Asia"
+}, {
+	"reli": ["Other Christian", "Other Christian", "Other Christian", "Other Christian", "Other Christian", "Other Christian", "Other Christian", "Other Christian", "Other Christian", "Catholic", "Marxist", "Other Christian", "Catholic", "Catholic", "Other Christian", "Other Christian", "Catholic", "Catholic", "Catholic", "Other Christian", "Catholic", "Other Christian", "Catholic", "Catholic", "Other Christian", "Other Christian", "Other Christian", "Other Christian", "Other Christian", "Other Christian"],
+	"name": "N.America"
+}, {
+	"reli": ["Muslim", "Ethnic", "Ethnic", "Ethnic", "Ethnic", "Ethnic", "Other Christian", "Catholic", "Ethnic", "Ethnic", "Muslim", "Ethnic", "Muslim", "Muslim", "Ethnic", "Other Christian", "Ethnic", "Ethnic", "Ethnic", "Muslim", "Ethnic", "Ethnic", "Ethnic", "Ethnic", "Ethnic", "Muslim", "Other Christian", "Ethnic", "Muslim", "Muslim", "Others", "Muslim", "Ethnic", "Muslim", "Muslim", "Ethnic", "Catholic", "Muslim", "Other Christian", "Ethnic", "Muslim", "Other Christian", "Other Christian", "Muslim", "Other Christian", "Ethnic", "Others", "Muslim", "Ethnic", "Ethnic", "Ethnic", "Ethnic"],
+	"name": "Africa"
+}, {
+	"reli": ["Catholic", "Catholic", "Catholic", "Catholic", "Catholic", "Catholic", "Other Christian", "Catholic", "Others", "Catholic", "Catholic", "Catholic", "Other Christian", "Other Christian", "Catholic", "Catholic"],
+	"name": "S.America"
+}, {
+	"reli": ["Other Christian", "Other Christian", "Other Christian", "Other Christian", "Catholic", "Other Christian", "Muslim", "Other Christian", "Other Christian", "Other Christian", "Other Christian", "Other Christian", "Other Christian", "Ethnic", "Catholic", "Other Christian", "Other Christian", "Other Christian", "Other Christian", "Other Christian"],
+	"name": "Oceania"
+}, {
+	"reli": ["Marxist", "Catholic", "Catholic", "Catholic", "Marxist", "Other Christian", "Marxist", "Other Christian", "Other Christian", "Other Christian", "Catholic", "Other Christian", "Other Christian", "Other Christian", "Marxist", "Other Christian", "Catholic", "Catholic", "Catholic", "Catholic", "Catholic", "Catholic", "Other Christian", "Other Christian", "Marxist", "Catholic", "Marxist", "Catholic", "Catholic", "Other Christian", "Other Christian", "Other Christian", "Catholic", "Marxist"],
+	"name": "Europe"
+}]

@@ -1,0 +1,15 @@
+[ { "color": "red",
+	"value": 150},{
+	"color":"white",
+	"value":143}, {
+	"color":"blue",
+	"value": 96}, {
+	"color":"green",
+	"value":90},{
+	"color":"gold",
+	"value":89}, {
+	"color": "black",
+	"value": 50},{
+	"color":"orange",
+	"value":26}
+]

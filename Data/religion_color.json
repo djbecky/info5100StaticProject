@@ -1,0 +1,25 @@
+[{
+	"religion": "Buddhist",
+	"color": ["orange", "red", "blue", "red", "white", "gold", "red", "red"]
+}, {
+	"religion": "Marxist",
+	"color": ["red", "red", "red", "blue", "white", "gold", "red", "red", "red", "blue", "white", "red", "red", "red", "red"]
+}, {
+	"religion": "Hindu",
+	"color": ["green", "orange", "red", "brown"]
+}, {
+	"religion": "Others",
+	"color": ["white", "white", "white", "green"]
+}, {
+	"religion": "Catholic",
+	"color": ["gold", "blue", "blue", "red", "gold", "red", "green", "gold", "red", "gold", "blue", "blue", "gold", "blue", "white", "white", "red", "blue", "black", "blue", "white", "white", "red", "red", "red", "green", "red", "blue", "red", "red", "red", "blue", "red", "red", "white", "green", "red", "white", "gold", "red"]
+}, {
+	"religion": "Muslim",
+	"color": ["green", "green", "red", "green", "gold", "green", "blue", "black", "gold", "red", "red", "red", "black", "green", "red", "green", "red", "red", "gold", "green", "red", "orange", "green", "red", "red", "green", "brown", "green", "green", "blue", "red", "red", "red", "red", "red", "green"]
+}, {
+	"religion": "Ethnic",
+	"color": ["red", "green", "blue", "red", "red", "gold", "gold", "red", "green", "green", "red", "red", "gold", "white", "red", "blue", "red", "red", "gold", "black", "red", "green", "green", "gold", "green", "green", "green"]
+}, {
+	"religion": "Other Christian",
+	"color": ["blue", "white", "red", "blue", "blue", "blue", "blue", "red", "blue", "gold", "red", "blue", "blue", "white", "red", "green", "green", "white", "blue", "blue", "white", "black", "white", "blue", "white", "gold", "blue", "blue", "green", "red", "red", "blue", "blue", "blue", "blue", "red", "white", "blue", "gold", "red", "red", "green", "orange", "blue", "green", "blue", "green", "red", "blue", "blue", "red", "red", "red", "blue", "blue", "red", "white", "white", "red", "red"]
+}]

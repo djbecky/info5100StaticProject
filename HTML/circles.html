@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+body {
+  font: 10px sans-serif;
+}
+.arc text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+
+.arc path {
+  stroke: #fff;
+}
+
+.line12{
+  stroke: #fff;
+  stroke-width: 3px;
+}
+</style>
+<body>
+<div>
+<script src="//d3js.org/d3.v3.min.js"></script>
+<svg width="1125" height="450">
+<script>
+  var svg = d3.select("svg");
+  var height = svg.attr("height");
+  var width = svg.attr("width");
+  var radius = Math.min(width, height) / 5;
+
+  var totalcountry = 150;
+
+  // svg.append("circle").attr("cx",20)
+  // .attr("cy",14)
+  // .attr("r",4)
+
+  //headline here:
+  svg.append("text")
+  .text("Prefered number of color used by countries:")
+  .attr("transform","translate(20 ,80)")
+  .style("font-size","20px")
+  .style("font-weight","bold");
+  
+  //draw the arrow here:
+  svg.append("line")
+      .attr("x1", 20)
+      .attr("y1",200)
+      .attr("x2", width - 60)
+      .attr("y2",200)
+      .style("stroke","#000")
+      .style("stroke-width","2px");
+  svg.append("path")
+  .attr("d","M0,0 L0,6 L9,3 z") 
+  .attr("transform","translate(" + (width - 60) +  ",197)")
+  .style("fill", "#000");
+
+  svg.append("text")
+  .text("number of color used")
+  .attr("transform","translate(" + (width - 110) +  ",215)");
+
+
+  //import the relative data here;
+  var colorset = [];
+  d3.json("num_color_ctry.json", function(error, data) {
+  
+      if (error) {console.log(error);}
+
+      data.forEach(function(d){
+        colorset.push(d);
+        //console.log(colorset);
+      });
+      //console.log(colorset);
+
+  /* back up dataset
+  colorset = [
+  	{n_color:1,n_ctry:[1,150]},
+  	{n_color:2,n_ctry:[42,150]},
+  	{n_color:3,n_ctry:[75,150]},
+  	{n_color:4,n_ctry:[44,150]},
+  	{n_color:5,n_ctry:[15,150]},
+  	{n_color:6,n_ctry:[9,150]},
+  	{n_color:7,n_ctry:[7,150]},
+  	{n_color:8,n_ctry:[10,150]}
+  	];
+*/
+
+  //1- grey-- BACKGROUND; 2 - RED; 3 - GOLD;4 - LIGHT BLUE; 5 -- DARK BLUE;6 -- LIGHT PURPLE; 7 -- GREEN; 8 -- PINK , 9 -- DARK GREEN
+  var color = d3.scale.ordinal()
+  	.domain([1,2,3,4,5,6,7,8,9])
+    .range(["#DDDDDD", "#FF3333", "#FFFF00","#AAFFEE","#003C9D","#D1BBFF", "#FFB7DD", "#55AA00"]);
+
+  var arc = d3.svg.arc()
+    .outerRadius(radius - 40)
+    .innerRadius(radius - 65);
+
+
+  for(var t1 = 0; t1 < colorset.length; t1++){
+	var pie = d3.layout.pie();
+	//onsole.log(colorset[1]);
+	var piedata = pie(colorset[t1].n_ctry);
+	//console.log(piedata);
+
+    var arcs = svg.selectAll("g.arc")  // 选择和添加的地方不对！！！ 这里有arc才可以；
+    .data(piedata)
+    .enter()
+    .append("g")
+    .attr("transform","translate("+ ((width/10) + t1*120) +","+ (200) +")");
+
+    arcs.append("path")
+    .attr("fill",function(d,i){
+        if(i == 0) {         
+          return color(t1 + 2);
+        }
+        else return color(i);
+    })
+    .attr("d",function(d){
+        return arc(d);   //调用弧生成器，得到路径值
+    });
+
+    // add text to the center;
+    arcs.append("text")
+    .attr("transform","translate(-5,6)")
+    //.attr("text-anchor","middle")
+    .text(t1+1)
+    .style("font-size","20px");
+
+    // text on the chart
+    arcs.append("text")
+    .attr("transform",function(d){
+        return "translate(" + arc.centroid(d) + ")";
+    })
+    .attr("text-anchor","middle")
+    .text(function(d){
+    //  console.log(d);
+      if(d.data == 150) return "";
+      else return d.data;
+    });
+
+
+
+}
+    
+    // draw the central line here:
+    // for(var li1 = 0 ; li1 < 9; li1++ ){
+    // }
+
+// data imprort end here;
+  });
+</script>
+</div>
+
+<div>
+  
+<script>
+// draw arrow here:
+  svg.append("line")
+      .attr("x1", 20)
+      .attr("y1",400)
+      .attr("x2", width - 60)
+      .attr("y2",400)
+      .style("stroke","#000")
+      .style("stroke-width","2px");
+
+  svg.append("path")
+  .attr("d","M0,0 L0,6 L9,3 z") 
+  .attr("transform","translate(" + (width - 60) +  ",397)")
+  .style("fill", "#000");
+
+  svg.append("text")
+  .text("number of shape used")
+  .attr("transform","translate(" + (width - 110) +  ",415)")
+  .style("font-size","10px");
+
+  svg.append("text")
+  .text("Prefered of number of shape used by countries:")
+  .attr("transform","translate(20 ,320)")
+  .style("font-size","20px")
+  .style("font-weight","bold");
+
+// data import for the second graph here;  
+  var shapeset = [];
+
+  d3.json("num_ctry_shape.json", function(error, data) {
+  
+      if (error) {console.log(error);}
+
+      data.forEach(function(d){
+        shapeset.push(d);
+      
+      });
+
+  //  backup data set shapeset = [
+  //   {n_color:1,n_ctry:[1,150]},
+  //   {n_color:2,n_ctry:[42,150]},
+  //   {n_color:3,n_ctry:[75,150]},
+  //   {n_color:4,n_ctry:[44,150]},
+  //   {n_color:5,n_ctry:[15,150]},
+  //   {n_color:6,n_ctry:[9,150]},
+  //   {n_color:7,n_ctry:[7,150]},
+  //   {n_color:8,n_ctry:[10,150]}
+  //   ];
+
+  var color2 = d3.scale.ordinal()
+    .domain([1,2,3,4,5,6,7,8,9])
+    .range(["#DDDDDD", "#FF3333", "#FFFF00","#AAFFEE","#003C9D","#D1BBFF", "#FFB7DD", "#55AA00"]);
+
+
+  var arc = d3.svg.arc()
+    .outerRadius(radius - 40)
+    .innerRadius(radius - 65);
+
+
+  for(var t2 = 0; t2 < shapeset.length-2; t2++){
+  var pie = d3.layout.pie();
+  var piedata = pie(shapeset[t2].n_ctry);
+  //console.log(piedata);
+
+    var arcs = svg.selectAll("g.arc")  // 选择和添加的地方不对！！！ 这里有arc才可以；
+    .data(piedata)
+    .enter()
+    .append("g")
+    .attr("transform","translate("+ ((width/10) + t2*120) +","+ (400) +")");
+
+    arcs.append("path")
+    .attr("fill",function(d,i){
+        // console.log(i);
+        if( i == 0) {
+          return color2(t2 + 2);
+        }
+        else return color2(i);
+    })
+    .attr("d",function(d){
+      //console.log(d);
+        return arc(d);   //调用弧生成器，得到路径值
+    });
+
+    // add text to the chart;
+    arcs.append("text")
+    .attr("transform",function(d){
+        return "translate(" + arc.centroid(d) + ")";
+    })
+    .attr("text-anchor","middle")
+    .text(function(d){
+      if(d.data == 150) return "";
+      else return d.data;
+    });
+
+    //center text
+    arcs.append("text")
+    .attr("transform","translate(-5,6)")
+    //.attr("text-anchor","middle")
+    .text(t2+1)
+    .style("font-size","2em")
+    .style("font-weight","bold"); // 感觉这个没在工作啊；
+}
+
+// data imprort end here;
+});
+
+</script>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
